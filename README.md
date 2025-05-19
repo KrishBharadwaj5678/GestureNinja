@@ -8,7 +8,7 @@
 
 | Feature                         | Description                                                                      |
 | ------------------------------- | -------------------------------------------------------------------------------- |
-| ☝️ **Index Finger Tracking**    | Detects and tracks your index finger using webcam input                          |
+| ☝️ **Index Finger Tracking**    | Detects and tracks your index finger using webcam                                |
 | 🍊 **Gesture Based Control**    | No mouse or keyboard needed                                                      |
 | ⚡ **Real Time Interaction**     | Low-latency tracking for smooth gameplay                                        |
 | 🧠 **Hand Landmark Detection**  | Uses advanced hand tracking via MediaPipe                                       |
@@ -103,5 +103,5 @@ We welcome contributions from the community!
    git push origin feature-name
    ```
 
-7. **Open a Pull Request (PR)**:
+7. **Open a Pull Request**:
    Go to the original **GestureNinja** repo and click **New Pull Request** to submit your changes. Provide a brief description of what you’ve done.
