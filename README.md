@@ -70,6 +70,38 @@ python app.py
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to open issues, submit PRs, or suggest improvements.
+We welcome contributions from the community!
 
----
+### 📝 Steps to Contribute:
+
+1. **Fork the repository**:
+   Click the **Fork** button at the top right of this repository to create your own copy of the project.
+
+2. **Clone your fork**:
+
+   ```bash
+   git clone https://github.com/KrishBharadwaj5678/GestureNinja.git
+   ```
+
+3. **Create a new branch**:
+
+   ```bash
+   git checkout -b feature-name
+   ```
+
+4. **Make your changes**
+
+5. **Commit your changes**:
+
+   ```bash
+   git commit -m "Add feature XYZ" 
+   ```
+
+6. **Push to your fork**:
+
+   ```bash
+   git push origin feature-name
+   ```
+
+7. **Open a Pull Request (PR)**:
+   Go to the original **GestureNinja** repo and click **New Pull Request** to submit your changes. Provide a brief description of what you’ve done.
