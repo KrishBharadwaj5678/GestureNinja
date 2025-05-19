@@ -10,8 +10,8 @@
 | ------------------------------- | -------------------------------------------------------------------------------- |
 | ☝️ **Index Finger Tracking**    | Detects and tracks your index finger using webcam input                          |
 | 🍊 **Gesture Based Control**    | No mouse or keyboard needed                                                      |
-| ⚡ **Real Time Interaction**     | Low-latency tracking for smooth gameplay                                         |
-| 🧠 **Hand Landmark Detection**  | Uses advanced hand tracking via MediaPipe                                      |
+| ⚡ **Real Time Interaction**     | Low-latency tracking for smooth gameplay                                        |
+| 🧠 **Hand Landmark Detection**  | Uses advanced hand tracking via MediaPipe                                       |
 | 🖱️ **Mouse Emulation**         | Moves your system cursor based on finger position                                |
 | 🎮 **Game Integration**         | Works with Fruit Ninja game                                                     |
 | 🖥️ **Cross-Platform**          | Compatible with Windows, macOS, and Linux                                        |
@@ -21,13 +21,27 @@
 
 ---
 
+## 🧩 Tech Stack
+
+| Technology        | Purpose                                                                 |
+| ----------------- | ----------------------------------------------------------------------- |
+| 🐍 **Python 3.x** | Core programming language                                              |
+| 🎛️ **CVZone**    | Simplifies OpenCV + MediaPipe integrations with useful abstractions     |
+| 🎥 **OpenCV**     | Video capture and image processing                                     |
+| 🖐️ **MediaPipe** | Real time hand and finger tracking                                      |
+| 🎛️ **PyAutoGUI** | Emulates mouse movements                                                |
+| 🖱️ **mouse**     | Mouse control library for more precise input                            |
+| 🧠 **NumPy**      | Efficient numerical operations and array handling                      |
+
+---
+
 ## 🛠️ Installation
 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/gestureninja.git
-cd gestureninja
+git clone https://github.com/KrishBharadwaj5678/GestureNinja.git
+cd GestureNinja
 ````
 
 2. **Install dependencies**
@@ -60,24 +74,6 @@ GestureNinja uses your webcam to:
 ## 📹 Demo
 
 👉 *Coming Soon: GIF or YouTube link*
-
----
-
-## 🧩 Tech Stack
-
-* 🐍 Python 3.x
-* 🎥 OpenCV
-* 🖐️ MediaPipe (for hand/finger tracking)
-* 🖱️ PyAutoGUI or pynput (for controlling the mouse)
-
----
-
-## 🚀 Future Improvements
-
-* Add support for other games
-* Improve gesture accuracy and robustness
-* Multi-finger gesture support
-* Game-specific gesture mapping UI
 
 ---
 
