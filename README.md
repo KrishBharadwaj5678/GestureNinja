@@ -1,6 +1,6 @@
 # 🥷 GestureNinja
 
-**GestureNinja** is a computer vision based project that allows you to play **Fruit Ninja** game using real time index finger tracking. Harness the power of your webcam and slice fruits using hand gestures. 🍉
+**GestureNinja** is a computer vision based project that allows you to play **Fruit Ninja** game using real time index finger tracking. Harness the power of your webcam and slice fruits using hand gestures. 🍉🍎
 
 ---
 
@@ -26,7 +26,7 @@
 | Technology        | Purpose                                                                 |
 | ----------------- | ----------------------------------------------------------------------- |
 | 🐍 **Python 3.x** | Core programming language                                              |
-| 🎛️ **CVZone**    | Simplifies OpenCV + MediaPipe integrations with useful abstractions     |
+| 🎛️ **CVZone**    | Simplifies OpenCV + MediaPipe                                           |
 | 🎥 **OpenCV**     | Video capture and image processing                                     |
 | 🖐️ **MediaPipe** | Real time hand and finger tracking                                      |
 | 🎛️ **PyAutoGUI** | Emulates mouse movements                                                |
@@ -46,8 +46,6 @@ cd GestureNinja
 
 2. **Install dependencies**
 
-Make sure you have Python 3.7 or later.
-
 ```bash
 pip install -r requirements.txt
 ```
@@ -62,18 +60,11 @@ python app.py
 
 ## 🎯 How It Works
 
-GestureNinja uses your webcam to:
-
-1. Detect your **hand landmarks** using [MediaPipe](https://google.github.io/mediapipe/)
-2. Track the **tip of your index finger**
-3. Move your system cursor based on finger position
-4. Simulate mouse clicks/slices based on specific gestures or movements
-
----
-
-## 📹 Demo
-
-👉 *Coming Soon: GIF or YouTube link*
+1. 📸 Detect your **hand landmarks** using MediaPipe.
+2. ☝️ Track the **tip of your index finger** to control the mouse position.
+3. 🤙 **Show your pinky finger** to simulate a *mouse hold* (useful for slicing).
+4. 🖱️ Move your system cursor in real time based on your finger’s position.
+5. 🔁 Continuously respond to your gestures for smooth interaction.
 
 ---
 
