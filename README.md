@@ -1,16 +1,23 @@
 # 🥷 GestureNinja
 
-**GestureNinja** is a computer vision based project that allows you to play **Fruit Ninja** game using real-time index finger tracking. Harness the power of your webcam and slice fruits using hand gestures. 🍉
+**GestureNinja** is a computer vision based project that allows you to play **Fruit Ninja** game using real time index finger tracking. Harness the power of your webcam and slice fruits using hand gestures. 🍉
 
 ---
 
 ## ✨ Features
 
-- ☝️ **Index Finger Tracking** using your webcam  
-- 🍊 **Fruit Ninja Control** via gestures (mouse emulation)  
-- ⚡ Real-time detection and interaction  
-- 💻 Runs locally — no internet required after setup  
-- 🐍 Built with Python + OpenCV + MediaPipe
+| Feature                         | Description                                                                      |
+| ------------------------------- | -------------------------------------------------------------------------------- |
+| ☝️ **Index Finger Tracking**    | Detects and tracks your index finger using webcam input                          |
+| 🍊 **Gesture Based Control**    | No mouse or keyboard needed                                                      |
+| ⚡ **Real Time Interaction**     | Low-latency tracking for smooth gameplay                                         |
+| 🧠 **Hand Landmark Detection**  | Uses advanced hand tracking via MediaPipe                                      |
+| 🖱️ **Mouse Emulation**         | Moves your system cursor based on finger position                                |
+| 🎮 **Game Integration**         | Works with Fruit Ninja game                                                     |
+| 🖥️ **Cross-Platform**          | Compatible with Windows, macOS, and Linux                                        |
+| 💻 **Offline Support**          | Runs entirely offline after setup                                               |
+| 🧩 **Modular Code Structure**   | Easy to extend for more gestures or games                                        |
+| 👨‍💻 **Developer Friendly**    | Clean, well-documented code                                                         |
 
 ---
 
