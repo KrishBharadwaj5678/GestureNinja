@@ -62,7 +62,7 @@ python app.py
 
 1. 📸 Detect your **hand landmarks** using MediaPipe.
 2. ☝️ Track the **tip of your index finger** to control the mouse position.
-3. 🤙 **Show your pinky finger** to simulate a *mouse hold* (useful for slicing).
+3. 🤙 **Show your pinky finger** to simulate a **mouse hold** (useful for slicing).
 4. 🖱️ Move your system cursor in real time based on your finger’s position.
 5. 🔁 Continuously respond to your gestures for smooth interaction.
 
