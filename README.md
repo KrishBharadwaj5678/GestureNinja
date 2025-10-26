@@ -104,4 +104,4 @@ We welcome contributions from the community!
    ```
 
 7. **Open a Pull Request**:
-   Go to the original **GestureNinja** repo and click **New Pull Request** to submit your changes. Provide a brief description of what you’ve done.
+   Go to the **GestureNinja** repo and click **New Pull Request** to submit your changes. Provide a brief description of what you’ve done.
